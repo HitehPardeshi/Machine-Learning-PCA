@@ -1,5 +1,5 @@
 # MACHINE LEARNING - Principal component analysis (PCA)
-# WINE DATASET
+# Wine Dataset
 
 Principal Component Analysis (PCA) on a wine dataset involves applying a dimensionality reduction technique to extract the most important features or components from the dataset while preserving its essential information. Here's a general description of how PCA can be applied to a wine dataset:
 
